@@ -1,0 +1,54 @@
+{
+  "avg_cate": 67.83763243939045,
+  "cate_std": 203.4830536801597,
+  "top_segments": [
+    {
+      "high_value_user": 1,
+      "is_uk": 0,
+      "recency_segment": "dormant",
+      "cate_hat": 102.2759985125407
+    },
+    {
+      "high_value_user": 1,
+      "is_uk": 1,
+      "recency_segment": "active",
+      "cate_hat": 94.0171724051954
+    },
+    {
+      "high_value_user": 1,
+      "is_uk": 1,
+      "recency_segment": "dormant",
+      "cate_hat": 90.65198277652952
+    },
+    {
+      "high_value_user": 1,
+      "is_uk": 0,
+      "recency_segment": "active",
+      "cate_hat": 73.65263183486711
+    },
+    {
+      "high_value_user": 0,
+      "is_uk": 1,
+      "recency_segment": "dormant",
+      "cate_hat": 48.53744900210299
+    },
+    {
+      "high_value_user": 0,
+      "is_uk": 1,
+      "recency_segment": "active",
+      "cate_hat": 38.47271844768652
+    },
+    {
+      "high_value_user": 0,
+      "is_uk": 0,
+      "recency_segment": "active",
+      "cate_hat": 31.18605055502525
+    },
+    {
+      "high_value_user": 0,
+      "is_uk": 0,
+      "recency_segment": "dormant",
+      "cate_hat": 23.342079976676697
+    }
+  ]
+}

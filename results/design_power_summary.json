@@ -1,0 +1,18 @@
+{
+  "n_total": 1667,
+  "n_per_arm_assumed": 833,
+  "baseline_conversion_rate": 0.8668266346730654,
+  "mde_conversion_absolute": 0.0466413535544266,
+  "baseline_gmv_std": 407.65590861574196,
+  "mde_gmv_absolute": 55.96159393381389,
+  "guardrails": [
+    "SRM p-value > 0.01",
+    "No extreme negative GMV inflation",
+    "Stable country mix"
+  ],
+  "primary_metric": "conversion_30d",
+  "secondary_metrics": [
+    "orders_30d",
+    "gmv_30d"
+  ]
+}

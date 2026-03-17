@@ -1,0 +1,5 @@
+{
+  "naive_observational_difference": 86.50388051654043,
+  "aipw_ate": 58.9154426421776,
+  "note": "Naive difference is biased because treatment is policy-targeted, not randomized."
+}
